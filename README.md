@@ -1,4 +1,4 @@
- Download the "Mysql-installer-web-community-8.0.42.0.msi" inside the drive.
+![image](https://github.com/user-attachments/assets/385e572c-65c0-4bb3-8d6a-3f990109ffb0) Download the "Mysql-installer-web-community-8.0.42.0.msi" inside the drive.
  
  ![image alt](https://github.com/NokoAR/Facility-Reservation-System/blob/569b12874e127fcedc17d50206c26225e7460665/Images%20Tutorial/Mysql%20DL.PNG)
 
@@ -114,3 +114,5 @@ INSERT INTO rooms (room_name, floor) VALUES
 Run.
 
 Open Main then run the Program
+
+![image alt](https://github.com/NokoAR/Facility-Reservation-System/blob/6e6ef09de4b4ea1109fed71dd3adc9deed784a23/Images%20Tutorial/MAIN.PNG)
