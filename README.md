@@ -60,7 +60,7 @@ username VARCHAR(32) NOT NULL,
 password VARCHAR(32) NOT NULL
 )
 
-Just like 12, Press run, No error should show up
+Just like before, Press run, No error should show up
 
 Remove the code, type in: 
 
