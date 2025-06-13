@@ -32,6 +32,8 @@ Open apache netbeans and the facility reservation system
 
 Select the project on the project window, select Window > Services.
 
+![image alt](https://github.com/NokoAR/Facility-Reservation-System/blob/71b4cb56a6c5e4a125bbeb678edaaa348bfced91/Images%20Tutorial/Windows.PNG)
+
 ![image alt](https://github.com/NokoAR/Facility-Reservation-System/blob/ce7b6b63ff548689adb7e1c143270b167c368a77/Images%20Tutorial/8.PNG)
 
 Select the dropdown of Databases > Drivers, right click "MySQL(Connector/J driver)" then find the jar file mysql connector, inside the facility reservation system > lib".
