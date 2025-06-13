@@ -34,9 +34,11 @@ Select the project on the project window, select Window > Services.
 
 ![image alt](https://github.com/NokoAR/Facility-Reservation-System/blob/71b4cb56a6c5e4a125bbeb678edaaa348bfced91/Images%20Tutorial/Windows.PNG)
 
-![image alt](https://github.com/NokoAR/Facility-Reservation-System/blob/ce7b6b63ff548689adb7e1c143270b167c368a77/Images%20Tutorial/8.PNG)
+Select the dropdown of Databases > Drivers, right click "MySQL(Connector/J driver)", select "connect using", then press "add",
 
-Select the dropdown of Databases > Drivers, right click "MySQL(Connector/J driver)" then find the jar file mysql connector, inside the facility reservation system > lib".
+Find the MySQL connector inside the "Facility Reservation System folder" > "lib" > "mysql-connector-j-9.3.0.jar".
+
+![image alt](https://github.com/NokoAR/Facility-Reservation-System/blob/ce7b6b63ff548689adb7e1c143270b167c368a77/Images%20Tutorial/8.PNG)
 
 Input the password, Next, Next(No Schema), Then name the connection name to "Facility Reservation System".
 
